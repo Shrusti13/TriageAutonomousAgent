@@ -24,40 +24,30 @@
 
 3.  Go to Solutions
 
-> ![A screenshot of a computer AI-generated content may be
-> incorrect.](media/image1.png){width="5.94305883639545in"
-> height="2.265683508311461in"}
+![Go to Solution](/assets/UserManual01.jpg)
 
 4.  Click on Import solution
 
-> ![A screenshot of a computer AI-generated content may be
-> incorrect.](media/image2.png){width="5.968363954505687in"
-> height="2.50875in"}
+![Click on Import solution](/assets/UserManual02.jpg)
 
 5.  Click on browse and upload the zip package downloaded in your local
     folder from step 1. And hit Next and you will see the solution
     package details and hit Next again as shown in below images
 
-> ![A screenshot of a computer AI-generated content may be
-> incorrect.](media/image3.png){width="5.533513779527559in"
-> height="4.5746817585301836in"}
->
-> ![A screenshot of a computer AI-generated content may be
-> incorrect.](media/image4.png){width="5.711973972003499in"
-> height="5.508833114610674in"}
+![Upload solution zip package](/assets/UserManual03.jpg)
+
+![Upload solution zip package](/assets/UserManual04.jpg)
 
 6.  Click on ...dots for all the connections and sign in with your Entra
     Id and once all the connections are added, you will see Next, click
     on Next and then click on Import. Solution is Imported
 
-> ![](media/image5.png){width="4.650402449693789in"
-> height="6.042190507436571in"}
+![Update connections](/assets/UserManual05.jpg)
 
 7.  Solution will include the AI prompts, 2 Agents and its respective
     components
 
-> ![](media/image6.png){width="5.373180227471566in"
-> height="2.395488845144357in"}
+![Imported solution](/assets/UserManual06.jpg)
 
 8.  Once your solution is successfully imported , you are good to test
     the Auto AI triage copilot agent.

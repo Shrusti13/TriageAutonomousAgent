@@ -6,25 +6,15 @@ The Triage Agent is responsible for handling the initial triage of
 issues. This involves using email as a trigger and testing with the Test
 Trigger to ensure that the process is functioning correctly.
 
-![A screenshot of a computer program AI-generated content may be
-incorrect.](media/image1.png){width="6.268055555555556in"
-height="2.94375in"}
+![WorkingSolutionSnippet01](/assets/WorkingSolutionSnippet01.jpg)
 
-![A screenshot of a computer AI-generated content may be
-incorrect.](media/image2.png){width="6.268055555555556in"
-height="3.1493055555555554in"}
+![WorkingSolutionSnippet02](/assets/WorkingSolutionSnippet02.jpg)
 
-![A screenshot of a computer AI-generated content may be
-incorrect.](media/image3.png){width="6.268055555555556in"
-height="3.31875in"}
+![WorkingSolutionSnippet03](/assets/WorkingSolutionSnippet03.jpg)
 
-![A screenshot of a computer AI-generated content may be
-incorrect.](media/image4.png){width="6.268055555555556in"
-height="3.3354166666666667in"}
+![WorkingSolutionSnippet04](/assets/WorkingSolutionSnippet04.jpg)
 
-![A screenshot of a computer AI-generated content may be
-incorrect.](media/image5.png){width="6.268055555555556in"
-height="3.442361111111111in"}
+![WorkingSolutionSnippet05](/assets/WorkingSolutionSnippet05.jpg)
 
 Outcome of Autonomous run of Triage Agent --
 
@@ -34,21 +24,16 @@ The autonomous run of the Triage Agent results in several key outcomes:
     confirming that their concern has been received and is being
     addressed.
 
-![A screenshot of a computer AI-generated content may be
-incorrect.](media/image6.png){width="6.268055555555556in"
-height="4.059027777777778in"}
+![WorkingSolutionSnippet06](/assets/WorkingSolutionSnippet06.jpg)
 
 2.  A bug is created in Azure DevOps as per the triage process, ensuring
     that the issue is tracked and managed effectively.
 
-> ![A screenshot of a computer AI-generated content may be
-> incorrect.](media/image7.png){width="6.268055555555556in"
-> height="3.1083333333333334in"}
+![WorkingSolutionSnippet07](/assets/WorkingSolutionSnippet07.jpg)
 >
 > Here is the image showing the bug from the DevOps list
 >
-> ![](media/image8.png){width="6.268055555555556in"
-> height="0.19791666666666666in"}
+![WorkingSolutionSnippet16](/assets/WorkingSolutionSnippet16.jpg)
 >
 > **Agent 2** -- **Issue Tracker Agent** to update additional
 > information and acknowledge with status on the issue raised
@@ -60,27 +45,17 @@ height="4.059027777777778in"}
 > This agent is triggered by receiving an email, which initiates the
 > process.
 >
-> ![A screenshot of a computer AI-generated content may be
-> incorrect.](media/image9.png){width="6.268055555555556in"
-> height="4.489583333333333in"}
+![WorkingSolutionSnippet08](/assets/WorkingSolutionSnippet08.jpg)
 >
-> ![A screenshot of a computer AI-generated content may be
-> incorrect.](media/image10.png){width="6.268055555555556in"
-> height="3.5375in"}
+![WorkingSolutionSnippet09](/assets/WorkingSolutionSnippet09.jpg)
 >
-> ![A screenshot of a computer AI-generated content may be
-> incorrect.](media/image11.png){width="6.268055555555556in"
-> height="3.4097222222222223in"}
+![WorkingSolutionSnippet10](/assets/WorkingSolutionSnippet10.jpg)
 >
-> ![A screenshot of a computer AI-generated content may be
-> incorrect.](media/image12.png){width="6.268055555555556in"
-> height="3.466666666666667in"}
+![WorkingSolutionSnippet11](/assets/WorkingSolutionSnippet11.jpg)
 >
-> ![A screenshot of a computer AI-generated content may be
-> incorrect.](media/image13.png){width="6.268055555555556in"
-> height="3.475in"}![A screenshot of a computer AI-generated content may
-> be incorrect.](media/image14.png){width="6.268055555555556in"
-> height="3.4340277777777777in"}
+![WorkingSolutionSnippet12](/assets/WorkingSolutionSnippet12.jpg)
+>
+![WorkingSolutionSnippet13](/assets/WorkingSolutionSnippet13.jpg)
 >
 > **Outcome after autonomous agent**
 >
@@ -90,13 +65,9 @@ height="4.059027777777778in"}
     status of the issue raised, ensuring that the user is kept informed
     throughout the process.
 
-> ![A screenshot of a computer AI-generated content may be
-> incorrect.](media/image15.png){width="6.268055555555556in"
-> height="4.440277777777778in"}
+![WorkingSolutionSnippet14](/assets/WorkingSolutionSnippet14.jpg)
 >
-> ![A screenshot of a computer AI-generated content may be
-> incorrect.](media/image16.png){width="6.268055555555556in"
-> height="4.363888888888889in"}
+![WorkingSolutionSnippet15](/assets/WorkingSolutionSnippet15.jpg)
 >
 > **Conclusion**:
 >
