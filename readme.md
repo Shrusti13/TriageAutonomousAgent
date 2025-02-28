@@ -3,7 +3,7 @@
 ## Summary
 **Auto Triage AI** is an intelligent, generative AI-powered solution that autonomously handles the entire bug triage process for product issue management. The solution leverages cutting-edge AI to automate the creation, update, and follow-up of bug reports, transforming how customer support teams manage product issues in Azure DevOps. By integrating generative AI into the workflow, Auto Triage AI ensures faster, more accurate, and scalable bug tracking while reducing the manual burden on support staff.
 
-[Demo video]()
+[Demo video](/assets/DemoVideo.mp4)
 
 ### Current Challenges
 
